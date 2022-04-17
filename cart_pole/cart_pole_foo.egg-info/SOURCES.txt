@@ -1,0 +1,6 @@
+setup.py
+cart_pole_foo.egg-info/PKG-INFO
+cart_pole_foo.egg-info/SOURCES.txt
+cart_pole_foo.egg-info/dependency_links.txt
+cart_pole_foo.egg-info/requires.txt
+cart_pole_foo.egg-info/top_level.txt
